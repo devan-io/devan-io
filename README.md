@@ -1,8 +1,9 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
+My name is Devanarayan. I am a final year CSE student at SCTCE, Pappanamcode.
+- 🔭 I’m currently working on a Full-Stack Library Website for my college.
+- 🌱 I’m currently learning Python for DL and Advanced DSA.
+- 🤔 I’m looking for help with new and fun projects 😊.
 
 <!--
 **devan-io/devan-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
